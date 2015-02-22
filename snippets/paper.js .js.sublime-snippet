@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.9.21/paper-full.min.js"></script>
+]]></content>	
+	<tabTrigger>paper.js </tabTrigger>
+</snippet>
+		  

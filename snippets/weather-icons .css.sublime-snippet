@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/1.3.2/css/weather-icons.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>weather-icons </tabTrigger>
+</snippet>
+			

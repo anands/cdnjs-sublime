@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap-wizard/1.2/jquery.bootstrap.wizard.min.js"></script>
+]]></content>	
+	<tabTrigger>twitter-bootstrap-wizard </tabTrigger>
+</snippet>
+		  

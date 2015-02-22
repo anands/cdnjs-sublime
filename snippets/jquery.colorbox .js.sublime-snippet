@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.4.33/jquery.colorbox-min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.colorbox </tabTrigger>
+</snippet>
+		  

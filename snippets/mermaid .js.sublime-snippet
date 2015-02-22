@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/0.3.3/mermaid.full.min.js"></script>
+]]></content>	
+	<tabTrigger>mermaid </tabTrigger>
+</snippet>
+		  

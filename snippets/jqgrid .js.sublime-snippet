@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqgrid/4.6.0/js/jquery.jqGrid.min.js"></script>
+]]></content>	
+	<tabTrigger>jqgrid </tabTrigger>
+</snippet>
+		  

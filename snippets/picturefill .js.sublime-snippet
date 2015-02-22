@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/2.2.0/picturefill.min.js"></script>
+]]></content>	
+	<tabTrigger>picturefill </tabTrigger>
+</snippet>
+		  

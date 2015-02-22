@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.2/js/blueimp-gallery.js"></script>
+]]></content>	
+	<tabTrigger>blueimp-gallery </tabTrigger>
+</snippet>
+		  

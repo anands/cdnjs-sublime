@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dygraph/1.1.0/dygraph-combined.js"></script>
+]]></content>	
+	<tabTrigger>dygraph </tabTrigger>
+</snippet>
+		  

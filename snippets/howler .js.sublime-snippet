@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/howler/1.1.25/howler.min.js"></script>
+]]></content>	
+	<tabTrigger>howler </tabTrigger>
+</snippet>
+		  

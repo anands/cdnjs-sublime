@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.0b2.120519/jquery.infinitescroll.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-infinitescroll </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.15.1/TweenMax.min.js"></script>
+]]></content>	
+	<tabTrigger>gsap </tabTrigger>
+</snippet>
+		  

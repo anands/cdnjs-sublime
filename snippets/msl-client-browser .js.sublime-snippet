@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/msl-client-browser/1.0.6/mockapi-browser.min.js"></script>
+]]></content>	
+	<tabTrigger>msl-client-browser </tabTrigger>
+</snippet>
+		  

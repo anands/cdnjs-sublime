@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.postcodify/2.3.0/search.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.postcodify </tabTrigger>
+</snippet>
+		  

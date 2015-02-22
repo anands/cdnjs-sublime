@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clientside-haml-js/5.4/haml.min.js"></script>
+]]></content>	
+	<tabTrigger>clientside-haml-js </tabTrigger>
+</snippet>
+		  

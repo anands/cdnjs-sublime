@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.24.0/es6-shim.min.js"></script>
+]]></content>	
+	<tabTrigger>es6-shim </tabTrigger>
+</snippet>
+		  

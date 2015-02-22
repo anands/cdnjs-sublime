@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jScrollPane/2.0.14/jquery.jscrollpane.min.js"></script>
+]]></content>	
+	<tabTrigger>jscrollpane </tabTrigger>
+</snippet>
+		  

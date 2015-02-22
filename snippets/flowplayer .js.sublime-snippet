@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/flowplayer/5.4.6/flowplayer.min.js"></script>
+]]></content>	
+	<tabTrigger>flowplayer </tabTrigger>
+</snippet>
+		  

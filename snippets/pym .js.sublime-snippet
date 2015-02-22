@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pym/0.1.0/pym.min.js"></script>
+]]></content>	
+	<tabTrigger>pym </tabTrigger>
+</snippet>
+		  

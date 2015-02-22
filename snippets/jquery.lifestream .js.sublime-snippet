@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lifestream/0.3.7/jquery.lifestream.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.lifestream </tabTrigger>
+</snippet>
+		  

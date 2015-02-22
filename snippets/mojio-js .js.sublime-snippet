@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mojio-js/2.2.6/mojio-js.min.js"></script>
+]]></content>	
+	<tabTrigger>mojio-js </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-smooth-scroll/1.5.4/jquery.smooth-scroll.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-smooth-scroll </tabTrigger>
+</snippet>
+		  

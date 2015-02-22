@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>skeleton </tabTrigger>
+</snippet>
+			

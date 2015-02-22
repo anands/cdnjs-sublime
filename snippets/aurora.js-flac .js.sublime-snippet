@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aurora.js-flac/0.2.1/flac.min.js"></script>
+]]></content>	
+	<tabTrigger>aurora.js-flac </tabTrigger>
+</snippet>
+		  

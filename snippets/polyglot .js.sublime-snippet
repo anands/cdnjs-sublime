@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/polyglot/2.2.0/js/jquery.polyglot.language.switcher.min.js"></script>
+]]></content>	
+	<tabTrigger>polyglot </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/taskforce/1.0/widget.min.js"></script>
+]]></content>	
+	<tabTrigger>taskforce </tabTrigger>
+</snippet>
+		  

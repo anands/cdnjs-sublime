@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/1.9.2/jquery.pjax.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.pjax </tabTrigger>
+</snippet>
+		  

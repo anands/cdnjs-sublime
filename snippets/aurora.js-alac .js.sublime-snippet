@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aurora.js-alac/0.1.0/alac.min.js"></script>
+]]></content>	
+	<tabTrigger>aurora.js-alac </tabTrigger>
+</snippet>
+		  

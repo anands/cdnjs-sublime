@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.gridster/0.5.6/jquery.gridster.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.gridster </tabTrigger>
+</snippet>
+		  

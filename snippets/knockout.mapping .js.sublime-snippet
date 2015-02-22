@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout.mapping/2.4.1/knockout.mapping.js"></script>
+]]></content>	
+	<tabTrigger>knockout.mapping </tabTrigger>
+</snippet>
+		  

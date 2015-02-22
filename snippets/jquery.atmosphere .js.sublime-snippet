@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.atmosphere/2.1.2/jquery.atmosphere.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.atmosphere </tabTrigger>
+</snippet>
+		  

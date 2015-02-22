@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Fort.js/1.0.0/fort.min.js"></script>
+]]></content>	
+	<tabTrigger>fort.js </tabTrigger>
+</snippet>
+		  

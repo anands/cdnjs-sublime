@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.stickit/0.8.0/backbone.stickit.min.js"></script>
+]]></content>	
+	<tabTrigger>backbone.stickit </tabTrigger>
+</snippet>
+		  

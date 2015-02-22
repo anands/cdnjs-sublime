@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/kendo-ui-core/2014.1.416/js/kendo.core.min.js"></script>
+]]></content>	
+	<tabTrigger>kendo-ui-core </tabTrigger>
+</snippet>
+		  

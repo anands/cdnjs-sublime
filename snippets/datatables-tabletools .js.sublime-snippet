@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables-tabletools/2.1.5/js/TableTools.min.js"></script>
+]]></content>	
+	<tabTrigger>datatables-tabletools </tabTrigger>
+</snippet>
+		  

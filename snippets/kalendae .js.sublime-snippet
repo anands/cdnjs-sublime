@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Kalendae/0.4.1/kalendae.standalone.min.js"></script>
+]]></content>	
+	<tabTrigger>kalendae </tabTrigger>
+</snippet>
+		  

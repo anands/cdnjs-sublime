@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/zxcvbn/1.0/zxcvbn-async.js"></script>
+]]></content>	
+	<tabTrigger>zxcvbn </tabTrigger>
+</snippet>
+		  

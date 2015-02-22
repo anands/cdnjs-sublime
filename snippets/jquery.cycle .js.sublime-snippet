@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.03/jquery.cycle.all.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.cycle </tabTrigger>
+</snippet>
+		  

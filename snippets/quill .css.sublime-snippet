@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/quill/0.19.8/quill.base.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>quill </tabTrigger>
+</snippet>
+			

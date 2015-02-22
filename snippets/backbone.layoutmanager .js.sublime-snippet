@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.layoutmanager/0.9.5/backbone.layoutmanager.min.js"></script>
+]]></content>	
+	<tabTrigger>backbone.layoutmanager </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/0.6.5/tether.min.js"></script>
+]]></content>	
+	<tabTrigger>tether </tabTrigger>
+</snippet>
+		  

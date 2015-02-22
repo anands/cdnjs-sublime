@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fpsmeter/0.3.1/fpsmeter.min.js"></script>
+]]></content>	
+	<tabTrigger>fpsmeter </tabTrigger>
+</snippet>
+		  

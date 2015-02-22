@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/1.1.2/postscribe.min.js"></script>
+]]></content>	
+	<tabTrigger>postscribe </tabTrigger>
+</snippet>
+		  

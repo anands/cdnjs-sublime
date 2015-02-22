@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ladda-bootstrap/0.9.4/ladda.min.js"></script>
+]]></content>	
+	<tabTrigger>ladda-bootstrap </tabTrigger>
+</snippet>
+		  

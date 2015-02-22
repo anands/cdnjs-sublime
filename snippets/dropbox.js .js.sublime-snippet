@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dropbox.js/0.10.3/dropbox.min.js"></script>
+]]></content>	
+	<tabTrigger>dropbox.js </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/riot/2.0.7/riot.min.js"></script>
+]]></content>	
+	<tabTrigger>riot </tabTrigger>
+</snippet>
+		  

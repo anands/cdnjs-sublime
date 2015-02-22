@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.1/jquery.qtip.min.js"></script>
+]]></content>	
+	<tabTrigger>qtip2 </tabTrigger>
+</snippet>
+		  

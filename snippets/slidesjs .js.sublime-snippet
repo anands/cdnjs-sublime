@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slidesjs/3.0/jquery.slides.min.js"></script>
+]]></content>	
+	<tabTrigger>slidesjs </tabTrigger>
+</snippet>
+		  

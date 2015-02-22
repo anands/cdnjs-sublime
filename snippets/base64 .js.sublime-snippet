@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Base64/0.3.0/base64.min.js"></script>
+]]></content>	
+	<tabTrigger>base64 </tabTrigger>
+</snippet>
+		  

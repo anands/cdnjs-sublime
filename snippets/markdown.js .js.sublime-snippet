@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown.js/0.6.0-beta1/markdown.min.js"></script>
+]]></content>	
+	<tabTrigger>markdown.js </tabTrigger>
+</snippet>
+		  

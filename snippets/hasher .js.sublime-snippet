@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hasher/1.2.0/hasher.min.js"></script>
+]]></content>	
+	<tabTrigger>hasher </tabTrigger>
+</snippet>
+		  

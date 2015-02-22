@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/zurb-ink/1.0.5/ink.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>zurb-ink </tabTrigger>
+</snippet>
+			

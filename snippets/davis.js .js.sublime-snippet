@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/davis.js/0.9.5/davis.min.js"></script>
+]]></content>	
+	<tabTrigger>davis.js </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/algoliasearch/2.9.1/algoliasearch.min.js"></script>
+]]></content>	
+	<tabTrigger>algoliasearch </tabTrigger>
+</snippet>
+		  

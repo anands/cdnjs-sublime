@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqplugin/1.0.2/jquery.jqplugin.min.js"></script>
+]]></content>	
+	<tabTrigger>jqplugin </tabTrigger>
+</snippet>
+		  

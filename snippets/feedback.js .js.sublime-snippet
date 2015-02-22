@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/feedback.js/2012.10.17/feedback.js"></script>
+]]></content>	
+	<tabTrigger>feedback.js </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/kartograph-js/0.8.7/kartograph.min.js"></script>
+]]></content>	
+	<tabTrigger>kartograph-js </tabTrigger>
+</snippet>
+		  

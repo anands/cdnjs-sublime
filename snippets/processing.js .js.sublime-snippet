@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/processing.js/1.4.8/processing.min.js"></script>
+]]></content>	
+	<tabTrigger>processing.js </tabTrigger>
+</snippet>
+		  

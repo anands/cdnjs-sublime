@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/file-uploader/3.7.0/fineuploader.min.js"></script>
+]]></content>	
+	<tabTrigger>file-uploader </tabTrigger>
+</snippet>
+		  

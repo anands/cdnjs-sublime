@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/oj.mustache/0.7.2/oj.mustache.min.js"></script>
+]]></content>	
+	<tabTrigger>oj.mustache </tabTrigger>
+</snippet>
+		  

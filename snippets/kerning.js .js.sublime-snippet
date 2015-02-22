@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/kerning.js/0.2/kerning.min.js"></script>
+]]></content>	
+	<tabTrigger>kerning.js </tabTrigger>
+</snippet>
+		  

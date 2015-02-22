@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intercom.js/0.1.4/intercom.min.js"></script>
+]]></content>	
+	<tabTrigger>intercom.js </tabTrigger>
+</snippet>
+		  

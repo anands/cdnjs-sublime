@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/simplestatemanager/2.2.5/ssm.min.js"></script>
+]]></content>	
+	<tabTrigger>simplestatemanager </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.2.2/localforage.min.js"></script>
+]]></content>	
+	<tabTrigger>localforage </tabTrigger>
+</snippet>
+		  

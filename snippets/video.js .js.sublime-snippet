@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/4.11.4/video.js"></script>
+]]></content>	
+	<tabTrigger>video.js </tabTrigger>
+</snippet>
+		  

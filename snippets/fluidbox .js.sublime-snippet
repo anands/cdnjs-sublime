@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fluidbox/1.4.3/jquery.fluidbox.min.js"></script>
+]]></content>	
+	<tabTrigger>fluidbox </tabTrigger>
+</snippet>
+		  

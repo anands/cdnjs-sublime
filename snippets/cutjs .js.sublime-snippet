@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cutjs/0.2.1/cut.web.min.js"></script>
+]]></content>	
+	<tabTrigger>cutjs </tabTrigger>
+</snippet>
+		  

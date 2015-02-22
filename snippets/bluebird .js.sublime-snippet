@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/2.9.6/bluebird.min.js"></script>
+]]></content>	
+	<tabTrigger>bluebird </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/0.1.7/wavesurfer.min.js"></script>
+]]></content>	
+	<tabTrigger>wavesurfer.js </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dustjs-linkedin/2.5.1/dust-core.min.js"></script>
+]]></content>	
+	<tabTrigger>dustjs-linkedin </tabTrigger>
+</snippet>
+		  

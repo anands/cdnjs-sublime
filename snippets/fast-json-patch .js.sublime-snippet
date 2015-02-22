@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fast-json-patch/0.5.0/json-patch-duplex.min.js"></script>
+]]></content>	
+	<tabTrigger>fast-json-patch </tabTrigger>
+</snippet>
+		  

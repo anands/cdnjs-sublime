@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/interact.js/1.2.2/interact.min.js"></script>
+]]></content>	
+	<tabTrigger>interact.js </tabTrigger>
+</snippet>
+		  

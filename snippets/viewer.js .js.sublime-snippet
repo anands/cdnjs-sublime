@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/viewer.js/0.10.3/crocodoc.viewer.min.js"></script>
+]]></content>	
+	<tabTrigger>viewer.js </tabTrigger>
+</snippet>
+		  

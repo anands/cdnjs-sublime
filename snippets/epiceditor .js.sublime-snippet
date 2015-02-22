@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/epiceditor/0.2.2/js/epiceditor.min.js"></script>
+]]></content>	
+	<tabTrigger>epiceditor </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cldrjs/0.3.11/cldr.min.js"></script>
+]]></content>	
+	<tabTrigger>cldrjs </tabTrigger>
+</snippet>
+		  

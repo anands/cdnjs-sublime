@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gulp/3.8.5/gulp.min.js"></script>
+]]></content>	
+	<tabTrigger>gulp </tabTrigger>
+</snippet>
+		  

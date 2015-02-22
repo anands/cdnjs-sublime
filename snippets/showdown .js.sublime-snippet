@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js"></script>
+]]></content>	
+	<tabTrigger>showdown </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.payment/1.2.2/jquery.payment.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.payment </tabTrigger>
+</snippet>
+		  

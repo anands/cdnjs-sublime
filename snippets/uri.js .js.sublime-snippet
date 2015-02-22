@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.11.2/URI.min.js"></script>
+]]></content>	
+	<tabTrigger>uri.js </tabTrigger>
+</snippet>
+		  

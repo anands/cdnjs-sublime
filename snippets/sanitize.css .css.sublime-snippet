@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/sanitize.css/2.0.0/sanitize.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>sanitize.css </tabTrigger>
+</snippet>
+			

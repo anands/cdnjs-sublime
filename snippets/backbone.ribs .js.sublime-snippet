@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.ribs/0.2.2/backbone.ribs.min.js"></script>
+]]></content>	
+	<tabTrigger>backbone.ribs </tabTrigger>
+</snippet>
+		  

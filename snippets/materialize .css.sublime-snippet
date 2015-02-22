@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.1/css/materialize.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>materialize </tabTrigger>
+</snippet>
+			

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/beepjs/0.0.1/beep.min.js"></script>
+]]></content>	
+	<tabTrigger>beepjs </tabTrigger>
+</snippet>
+		  

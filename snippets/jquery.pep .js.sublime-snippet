@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pep/0.4.0/jquery.pep.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.pep </tabTrigger>
+</snippet>
+		  

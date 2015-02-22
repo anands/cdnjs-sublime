@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/metrics-graphics/2.1.0/metricsgraphics.min.js"></script>
+]]></content>	
+	<tabTrigger>metrics-graphics </tabTrigger>
+</snippet>
+		  

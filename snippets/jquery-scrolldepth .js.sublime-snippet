@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrolldepth/0.6/jquery.scrolldepth.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-scrolldepth </tabTrigger>
+</snippet>
+		  

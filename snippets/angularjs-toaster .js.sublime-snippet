@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angularjs-toaster/0.4.10/toaster.min.js"></script>
+]]></content>	
+	<tabTrigger>angularjs-toaster </tabTrigger>
+</snippet>
+		  

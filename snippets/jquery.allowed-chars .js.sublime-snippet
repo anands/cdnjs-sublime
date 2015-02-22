@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.allowed-chars/1.0.4/jquery.allowed-chars.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.allowed-chars </tabTrigger>
+</snippet>
+		  

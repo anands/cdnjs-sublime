@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/r2d3/0.2.0/r2d3.min.js"></script>
+]]></content>	
+	<tabTrigger>r2d3 </tabTrigger>
+</snippet>
+		  

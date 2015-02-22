@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.4/typeahead.bundle.min.js"></script>
+]]></content>	
+	<tabTrigger>typeahead.js </tabTrigger>
+</snippet>
+		  

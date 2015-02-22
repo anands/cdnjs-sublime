@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gridstack.js/0.2.2/gridstack.min.js"></script>
+]]></content>	
+	<tabTrigger>gridstack.js </tabTrigger>
+</snippet>
+		  

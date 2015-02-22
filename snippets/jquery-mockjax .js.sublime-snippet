@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mockjax/1.5.3/jquery.mockjax.js"></script>
+]]></content>	
+	<tabTrigger>jquery-mockjax </tabTrigger>
+</snippet>
+		  

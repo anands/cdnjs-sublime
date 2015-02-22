@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/log4javascript/1.4.9/log4javascript.js"></script>
+]]></content>	
+	<tabTrigger>log4javascript </tabTrigger>
+</snippet>
+		  

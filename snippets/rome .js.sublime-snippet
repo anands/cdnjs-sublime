@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/rome/2.0.3/rome.standalone.min.js"></script>
+]]></content>	
+	<tabTrigger>rome </tabTrigger>
+</snippet>
+		  

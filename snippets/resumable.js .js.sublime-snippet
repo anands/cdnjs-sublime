@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/resumable.js/1.0/resumable.js"></script>
+]]></content>	
+	<tabTrigger>resumable.js </tabTrigger>
+</snippet>
+		  

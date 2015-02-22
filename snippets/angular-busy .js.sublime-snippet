@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-busy/4.1.2/angular-busy.min.js"></script>
+]]></content>	
+	<tabTrigger>angular-busy </tabTrigger>
+</snippet>
+		  

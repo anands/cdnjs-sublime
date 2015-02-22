@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.1/velocity.min.js"></script>
+]]></content>	
+	<tabTrigger>velocity </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/gumby/2.6.0/css/gumby.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>gumby </tabTrigger>
+</snippet>
+			

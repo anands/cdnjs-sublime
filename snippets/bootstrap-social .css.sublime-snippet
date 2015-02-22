@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.2.1/bootstrap-social.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>bootstrap-social </tabTrigger>
+</snippet>
+			

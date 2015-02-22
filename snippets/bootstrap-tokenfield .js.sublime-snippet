@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-tokenfield/0.12.0/bootstrap-tokenfield.min.js"></script>
+]]></content>	
+	<tabTrigger>bootstrap-tokenfield </tabTrigger>
+</snippet>
+		  

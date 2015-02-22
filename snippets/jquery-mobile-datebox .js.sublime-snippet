@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile-datebox/1.1.1/jqm-datebox.core.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-mobile-datebox </tabTrigger>
+</snippet>
+		  

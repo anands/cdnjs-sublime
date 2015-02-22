@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-poller/0.3.2/angular-poller.min.js"></script>
+]]></content>	
+	<tabTrigger>angular-poller </tabTrigger>
+</snippet>
+		  

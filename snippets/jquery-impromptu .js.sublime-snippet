@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-impromptu/5.2.3/jquery-impromptu.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-impromptu </tabTrigger>
+</snippet>
+		  

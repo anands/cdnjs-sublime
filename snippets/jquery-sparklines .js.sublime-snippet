@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.1.2/jquery.sparkline.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-sparklines </tabTrigger>
+</snippet>
+		  

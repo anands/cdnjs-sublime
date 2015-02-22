@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ember-resource.js/2.0.0/ember-resource.min.js"></script>
+]]></content>	
+	<tabTrigger>ember-resource.js </tabTrigger>
+</snippet>
+		  

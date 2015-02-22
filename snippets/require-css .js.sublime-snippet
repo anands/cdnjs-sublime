@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require-css/0.1.5/css.js"></script>
+]]></content>	
+	<tabTrigger>require-css </tabTrigger>
+</snippet>
+		  

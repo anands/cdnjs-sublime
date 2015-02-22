@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tocify/1.9.0/javascripts/jquery.tocify.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.tocify </tabTrigger>
+</snippet>
+		  

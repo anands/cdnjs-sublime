@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require-i18n/2.0.4/i18n.js"></script>
+]]></content>	
+	<tabTrigger>require-i18n </tabTrigger>
+</snippet>
+		  

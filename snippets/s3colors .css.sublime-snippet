@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/s3colors/1.0/s3-colors.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>s3colors </tabTrigger>
+</snippet>
+			

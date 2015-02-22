@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-Validation-Engine/2.6.4/jquery.validationEngine.js"></script>
+]]></content>	
+	<tabTrigger>jquery-validation-engine </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/spin.js/2.0.1/spin.min.js"></script>
+]]></content>	
+	<tabTrigger>spin.js </tabTrigger>
+</snippet>
+		  

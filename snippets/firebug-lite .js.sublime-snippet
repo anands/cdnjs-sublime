@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/firebug-lite/1.4.0/firebug-lite.js"></script>
+]]></content>	
+	<tabTrigger>firebug-lite </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.appear/0.3.3/jquery.appear.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.appear </tabTrigger>
+</snippet>
+		  

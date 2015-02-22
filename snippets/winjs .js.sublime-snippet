@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/winjs/3.0.1/js/WinJS.min.js"></script>
+]]></content>	
+	<tabTrigger>winjs </tabTrigger>
+</snippet>
+		  

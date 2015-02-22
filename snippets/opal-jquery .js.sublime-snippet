@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/opal-jquery/0.0.8/opal-jquery.min.js"></script>
+]]></content>	
+	<tabTrigger>opal-jquery </tabTrigger>
+</snippet>
+		  

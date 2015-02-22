@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/midi.js/0.3.0/midi.min.js"></script>
+]]></content>	
+	<tabTrigger>midi.js </tabTrigger>
+</snippet>
+		  

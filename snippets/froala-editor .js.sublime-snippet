@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/1.2.5/js/froala_editor.min.js"></script>
+]]></content>	
+	<tabTrigger>froala-editor </tabTrigger>
+</snippet>
+		  

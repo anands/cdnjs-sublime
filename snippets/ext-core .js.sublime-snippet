@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ext-core/3.1.0/ext-core.js"></script>
+]]></content>	
+	<tabTrigger>ext-core </tabTrigger>
+</snippet>
+		  

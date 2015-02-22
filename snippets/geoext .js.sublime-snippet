@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/geoext/1.1/script/GeoExt.js"></script>
+]]></content>	
+	<tabTrigger>geoext </tabTrigger>
+</snippet>
+		  

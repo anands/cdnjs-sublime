@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.touchswipe </tabTrigger>
+</snippet>
+		  

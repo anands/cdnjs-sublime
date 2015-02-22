@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bower-angular-translate-loader-url/2.0.0/angular-translate-loader-url.min.js"></script>
+]]></content>	
+	<tabTrigger>bower-angular-translate-loader-url </tabTrigger>
+</snippet>
+		  

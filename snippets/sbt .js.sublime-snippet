@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sbt/1.1.2.20141211-1200/sbt-core-dojo-amd.js"></script>
+]]></content>	
+	<tabTrigger>sbt </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/0.5.2/webcomponents.min.js"></script>
+]]></content>	
+	<tabTrigger>webcomponentsjs </tabTrigger>
+</snippet>
+		  

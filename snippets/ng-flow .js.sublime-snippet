@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-flow/2.6.0/ng-flow-standalone.min.js"></script>
+]]></content>	
+	<tabTrigger>ng-flow </tabTrigger>
+</snippet>
+		  

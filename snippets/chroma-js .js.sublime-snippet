@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/0.6.3/chroma.min.js"></script>
+]]></content>	
+	<tabTrigger>chroma-js </tabTrigger>
+</snippet>
+		  

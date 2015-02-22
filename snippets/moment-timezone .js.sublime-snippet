@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.3.0/moment-timezone.min.js"></script>
+]]></content>	
+	<tabTrigger>moment-timezone </tabTrigger>
+</snippet>
+		  

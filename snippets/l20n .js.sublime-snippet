@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/l20n/1.0.2/l20n.min.js"></script>
+]]></content>	
+	<tabTrigger>l20n </tabTrigger>
+</snippet>
+		  

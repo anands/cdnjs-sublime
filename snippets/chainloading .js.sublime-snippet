@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chainloading/1.0.3/chainloading.min.js"></script>
+]]></content>	
+	<tabTrigger>chainloading </tabTrigger>
+</snippet>
+		  

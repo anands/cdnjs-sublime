@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/postal.js/0.12.4/postal.min.js"></script>
+]]></content>	
+	<tabTrigger>postal.js </tabTrigger>
+</snippet>
+		  

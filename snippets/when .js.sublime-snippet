@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/when/2.7.1/when.js"></script>
+]]></content>	
+	<tabTrigger>when </tabTrigger>
+</snippet>
+		  

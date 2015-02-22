@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/superagent/0.15.7/superagent.min.js"></script>
+]]></content>	
+	<tabTrigger>superagent </tabTrigger>
+</snippet>
+		  

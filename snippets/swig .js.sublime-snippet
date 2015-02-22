@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/swig/1.4.2/swig.min.js"></script>
+]]></content>	
+	<tabTrigger>swig </tabTrigger>
+</snippet>
+		  

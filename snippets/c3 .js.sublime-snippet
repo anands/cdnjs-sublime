@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.9/c3.min.js"></script>
+]]></content>	
+	<tabTrigger>c3 </tabTrigger>
+</snippet>
+		  

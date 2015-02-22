@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/2.8.0/jquery.mb.YTPlayer.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.mb.ytplayer </tabTrigger>
+</snippet>
+		  

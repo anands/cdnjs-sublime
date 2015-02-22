@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.27.1/webtorrent.min.js"></script>
+]]></content>	
+	<tabTrigger>webtorrent </tabTrigger>
+</snippet>
+		  

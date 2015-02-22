@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-mustache/0.0.2/stache.js"></script>
+]]></content>	
+	<tabTrigger>requirejs-mustache </tabTrigger>
+</snippet>
+		  

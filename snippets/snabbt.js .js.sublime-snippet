@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/snabbt.js/0.3.0/snabbt.min.js"></script>
+]]></content>	
+	<tabTrigger>snabbt.js </tabTrigger>
+</snippet>
+		  

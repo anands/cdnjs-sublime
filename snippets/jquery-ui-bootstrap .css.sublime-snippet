@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery-ui-bootstrap/0.5pre/assets/css/bootstrap.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>jquery-ui-bootstrap </tabTrigger>
+</snippet>
+			

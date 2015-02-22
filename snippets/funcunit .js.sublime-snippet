@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FuncUnit/2.0.4/funcunit.min.js"></script>
+]]></content>	
+	<tabTrigger>funcunit </tabTrigger>
+</snippet>
+		  

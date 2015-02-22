@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ember-simple-auth/0.7.3/ember-simple-auth.js"></script>
+]]></content>	
+	<tabTrigger>ember-simple-auth </tabTrigger>
+</snippet>
+		  

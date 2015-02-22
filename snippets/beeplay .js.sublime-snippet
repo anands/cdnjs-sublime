@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/beeplay/0.0.5/beeplay.min.js"></script>
+]]></content>	
+	<tabTrigger>beeplay </tabTrigger>
+</snippet>
+		  

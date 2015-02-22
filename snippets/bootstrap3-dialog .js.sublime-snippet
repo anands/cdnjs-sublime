@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap3-dialog/1.34.1/js/bootstrap-dialog.min.js"></script>
+]]></content>	
+	<tabTrigger>bootstrap3-dialog </tabTrigger>
+</snippet>
+		  

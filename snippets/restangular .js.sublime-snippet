@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/restangular/1.4.0/restangular.min.js"></script>
+]]></content>	
+	<tabTrigger>restangular </tabTrigger>
+</snippet>
+		  

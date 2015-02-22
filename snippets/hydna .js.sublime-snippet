@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hydna/1.0.1/hydna.min.js"></script>
+]]></content>	
+	<tabTrigger>hydna </tabTrigger>
+</snippet>
+		  

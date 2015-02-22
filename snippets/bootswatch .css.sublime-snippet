@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.2/custom/bootstrap.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>bootswatch </tabTrigger>
+</snippet>
+			

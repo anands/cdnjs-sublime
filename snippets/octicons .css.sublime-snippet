@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.1.2/octicons.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>octicons </tabTrigger>
+</snippet>
+			

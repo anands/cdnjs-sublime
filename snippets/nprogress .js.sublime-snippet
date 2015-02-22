@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.1.6/nprogress.min.js"></script>
+]]></content>	
+	<tabTrigger>nprogress </tabTrigger>
+</snippet>
+		  

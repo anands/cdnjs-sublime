@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitterlib.js/1.0.8/twitterlib.min.js"></script>
+]]></content>	
+	<tabTrigger>twitterlib.js </tabTrigger>
+</snippet>
+		  

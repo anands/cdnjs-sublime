@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/topcoat/0.8.0/css/topcoat-mobile-dark.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>topcoat </tabTrigger>
+</snippet>
+			

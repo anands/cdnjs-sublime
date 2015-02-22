@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.15/require.min.js"></script>
+]]></content>	
+	<tabTrigger>require.js </tabTrigger>
+</snippet>
+		  

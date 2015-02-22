@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/amstockchart/3.10.0/amstock.js"></script>
+]]></content>	
+	<tabTrigger>amstockchart </tabTrigger>
+</snippet>
+		  

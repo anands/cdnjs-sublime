@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.string/3.0.2/underscore.string.min.js"></script>
+]]></content>	
+	<tabTrigger>underscore.string </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone-react-component/0.7.3/backbone-react-component.js"></script>
+]]></content>	
+	<tabTrigger>backbone-react-component </tabTrigger>
+</snippet>
+		  

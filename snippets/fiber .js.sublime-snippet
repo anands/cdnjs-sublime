@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fiber/1.0.5/fiber.min.js"></script>
+]]></content>	
+	<tabTrigger>fiber </tabTrigger>
+</snippet>
+		  

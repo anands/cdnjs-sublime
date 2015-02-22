@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ionic/1.0.0-beta.14/js/ionic.min.js"></script>
+]]></content>	
+	<tabTrigger>ionic </tabTrigger>
+</snippet>
+		  

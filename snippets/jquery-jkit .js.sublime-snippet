@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-jkit/1.1.8/jquery.jkit.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-jkit </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.SPServices/2014.02/jquery.SPServices.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.spservices </tabTrigger>
+</snippet>
+		  

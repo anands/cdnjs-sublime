@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/stapes/0.8.1/stapes.min.js"></script>
+]]></content>	
+	<tabTrigger>stapes </tabTrigger>
+</snippet>
+		  

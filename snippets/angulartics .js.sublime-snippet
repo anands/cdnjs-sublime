@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angulartics/0.17.2/angulartics.min.js"></script>
+]]></content>	
+	<tabTrigger>angulartics </tabTrigger>
+</snippet>
+		  

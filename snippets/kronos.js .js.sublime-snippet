@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/kronos.js/0.7.2/kronos.min.js"></script>
+]]></content>	
+	<tabTrigger>kronos.js </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/authy-forms.css/2.2/form.authy.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>authy-forms.css </tabTrigger>
+</snippet>
+			

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/2.2.2/phaser.min.js"></script>
+]]></content>	
+	<tabTrigger>phaser </tabTrigger>
+</snippet>
+		  

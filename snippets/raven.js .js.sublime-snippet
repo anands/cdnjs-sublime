@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/raven.js/1.1.11/raven.min.js"></script>
+]]></content>	
+	<tabTrigger>raven.js </tabTrigger>
+</snippet>
+		  

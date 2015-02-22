@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hinclude/0.9.5/hinclude.min.js"></script>
+]]></content>	
+	<tabTrigger>hinclude </tabTrigger>
+</snippet>
+		  

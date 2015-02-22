@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-csv </tabTrigger>
+</snippet>
+		  

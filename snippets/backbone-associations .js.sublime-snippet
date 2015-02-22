@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone-associations/0.6.2/backbone-associations-min.js"></script>
+]]></content>	
+	<tabTrigger>backbone-associations </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pusher-angular/0.1.4/pusher-angular.min.js"></script>
+]]></content>	
+	<tabTrigger>pusher-angular </tabTrigger>
+</snippet>
+		  

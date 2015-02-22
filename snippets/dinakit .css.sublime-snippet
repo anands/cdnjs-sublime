@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/DinaKit/1.2/css/cdn_dinakit.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>dinakit </tabTrigger>
+</snippet>
+			

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dc/1.7.3/dc.min.js"></script>
+]]></content>	
+	<tabTrigger>dc </tabTrigger>
+</snippet>
+		  

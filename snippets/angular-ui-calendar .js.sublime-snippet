@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-calendar/0.8.0/calendar.js"></script>
+]]></content>	
+	<tabTrigger>angular-ui-calendar </tabTrigger>
+</snippet>
+		  

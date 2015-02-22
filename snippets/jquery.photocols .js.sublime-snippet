@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.photocols/1.0.3/jquery.photocols.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.photocols </tabTrigger>
+</snippet>
+		  

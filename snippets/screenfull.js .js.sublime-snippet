@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/2.0.0/screenfull.min.js"></script>
+]]></content>	
+	<tabTrigger>screenfull.js </tabTrigger>
+</snippet>
+		  

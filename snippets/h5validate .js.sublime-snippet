@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/h5Validate/0.8.4/jquery.h5validate.min.js"></script>
+]]></content>	
+	<tabTrigger>h5validate </tabTrigger>
+</snippet>
+		  

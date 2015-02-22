@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/m8tro-bootstrap/3.3.2/m8tro.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>m8tro-bootstrap </tabTrigger>
+</snippet>
+			

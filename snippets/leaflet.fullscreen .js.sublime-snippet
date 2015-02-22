@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.0.0/Control.FullScreen.min.js"></script>
+]]></content>	
+	<tabTrigger>leaflet.fullscreen </tabTrigger>
+</snippet>
+		  

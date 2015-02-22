@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tweet/2.2.0/jquery.tweet.min.js"></script>
+]]></content>	
+	<tabTrigger>tweet </tabTrigger>
+</snippet>
+		  

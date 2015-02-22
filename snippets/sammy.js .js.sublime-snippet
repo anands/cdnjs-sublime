@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sammy.js/0.7.6/sammy.min.js"></script>
+]]></content>	
+	<tabTrigger>sammy.js </tabTrigger>
+</snippet>
+		  

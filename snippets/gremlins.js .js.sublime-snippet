@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gremlins.js/0.1.0/gremlins.min.js"></script>
+]]></content>	
+	<tabTrigger>gremlins.js </tabTrigger>
+</snippet>
+		  

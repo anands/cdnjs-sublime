@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-plugins/1.0.3/async.js"></script>
+]]></content>	
+	<tabTrigger>requirejs-plugins </tabTrigger>
+</snippet>
+		  

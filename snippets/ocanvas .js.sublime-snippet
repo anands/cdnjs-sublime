@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ocanvas/2.7.3/ocanvas.min.js"></script>
+]]></content>	
+	<tabTrigger>ocanvas </tabTrigger>
+</snippet>
+		  

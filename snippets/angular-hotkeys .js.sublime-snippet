@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-hotkeys/1.4.5/hotkeys.min.js"></script>
+]]></content>	
+	<tabTrigger>angular-hotkeys </tabTrigger>
+</snippet>
+		  

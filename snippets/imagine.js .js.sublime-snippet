@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/imagine.js/0.1.0/imagine.min.js"></script>
+]]></content>	
+	<tabTrigger>imagine.js </tabTrigger>
+</snippet>
+		  

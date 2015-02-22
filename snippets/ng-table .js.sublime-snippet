@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-table/0.3.3/ng-table.min.js"></script>
+]]></content>	
+	<tabTrigger>ng-table </tabTrigger>
+</snippet>
+		  

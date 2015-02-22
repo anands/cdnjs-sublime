@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ractive.js/0.3.7/ractive.min.js"></script>
+]]></content>	
+	<tabTrigger>ractive.js </tabTrigger>
+</snippet>
+		  

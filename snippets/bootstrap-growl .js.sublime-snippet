@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-growl/1.0.0/jquery.bootstrap-growl.min.js"></script>
+]]></content>	
+	<tabTrigger>bootstrap-growl </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.1/jquery.fittext.min.js"></script>
+]]></content>	
+	<tabTrigger>fittext.js </tabTrigger>
+</snippet>
+		  

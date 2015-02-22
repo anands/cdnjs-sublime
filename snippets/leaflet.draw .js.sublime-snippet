@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.2.3/leaflet.draw.js"></script>
+]]></content>	
+	<tabTrigger>leaflet.draw </tabTrigger>
+</snippet>
+		  

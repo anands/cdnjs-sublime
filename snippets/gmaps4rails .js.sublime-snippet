@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps4rails/2.1.2/gmaps4rails.js"></script>
+]]></content>	
+	<tabTrigger>gmaps4rails </tabTrigger>
+</snippet>
+		  

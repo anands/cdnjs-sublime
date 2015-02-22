@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
+]]></content>	
+	<tabTrigger>lightbox2 </tabTrigger>
+</snippet>
+		  

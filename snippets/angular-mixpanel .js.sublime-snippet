@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-mixpanel/1.0.0/angular-mixpanel.min.js"></script>
+]]></content>	
+	<tabTrigger>angular-mixpanel </tabTrigger>
+</snippet>
+		  

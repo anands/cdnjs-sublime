@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/piwik/2.8.0/piwik.js"></script>
+]]></content>	
+	<tabTrigger>piwik </tabTrigger>
+</snippet>
+		  

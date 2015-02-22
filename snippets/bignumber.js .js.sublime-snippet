@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bignumber.js/2.0.0/bignumber.min.js"></script>
+]]></content>	
+	<tabTrigger>bignumber.js </tabTrigger>
+</snippet>
+		  

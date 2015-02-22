@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reqwest/1.1.5/reqwest.js"></script>
+]]></content>	
+	<tabTrigger>reqwest </tabTrigger>
+</snippet>
+		  

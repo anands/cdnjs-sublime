@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/outdated-browser/1.0.1/outdatedBrowser.min.js"></script>
+]]></content>	
+	<tabTrigger>outdated-browser </tabTrigger>
+</snippet>
+		  

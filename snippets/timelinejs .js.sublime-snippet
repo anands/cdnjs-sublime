@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/timelinejs/2.35.2/js/timeline-min.js"></script>
+]]></content>	
+	<tabTrigger>timelinejs </tabTrigger>
+</snippet>
+		  

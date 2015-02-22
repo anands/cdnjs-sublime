@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/2.4.0/jszip.min.js"></script>
+]]></content>	
+	<tabTrigger>jszip </tabTrigger>
+</snippet>
+		  

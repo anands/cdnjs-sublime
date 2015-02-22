@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/globalize/0.1.1/globalize.min.js"></script>
+]]></content>	
+	<tabTrigger>globalize </tabTrigger>
+</snippet>
+		  

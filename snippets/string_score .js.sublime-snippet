@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/string_score/0.1.20/string_score.min.js"></script>
+]]></content>	
+	<tabTrigger>string_score </tabTrigger>
+</snippet>
+		  

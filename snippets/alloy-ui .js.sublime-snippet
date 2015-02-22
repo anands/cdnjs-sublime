@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/alloy-ui/1.0.1/aui-min.js"></script>
+]]></content>	
+	<tabTrigger>alloy-ui </tabTrigger>
+</snippet>
+		  

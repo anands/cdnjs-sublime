@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/document-register-element/0.1.6/document-register-element.js"></script>
+]]></content>	
+	<tabTrigger>document-register-element </tabTrigger>
+</snippet>
+		  

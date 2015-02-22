@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-strap/2.1.6/angular-strap.min.js"></script>
+]]></content>	
+	<tabTrigger>angular-strap </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.pagination.js/0.1.1/list.pagination.min.js"></script>
+]]></content>	
+	<tabTrigger>list.pagination.js </tabTrigger>
+</snippet>
+		  

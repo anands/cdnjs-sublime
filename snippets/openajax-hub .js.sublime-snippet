@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openajax-hub/2.0.7/OpenAjaxUnmanagedHub.min.js"></script>
+]]></content>	
+	<tabTrigger>openajax-hub </tabTrigger>
+</snippet>
+		  

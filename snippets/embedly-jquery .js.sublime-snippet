@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/embedly-jquery/3.1.1/jquery.embedly.min.js"></script>
+]]></content>	
+	<tabTrigger>embedly-jquery </tabTrigger>
+</snippet>
+		  

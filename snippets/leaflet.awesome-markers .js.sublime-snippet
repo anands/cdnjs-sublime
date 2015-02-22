@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+]]></content>	
+	<tabTrigger>leaflet.awesome-markers </tabTrigger>
+</snippet>
+		  

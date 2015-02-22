@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/angular-material/0.7.1/angular-material.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>angular-material </tabTrigger>
+</snippet>
+			

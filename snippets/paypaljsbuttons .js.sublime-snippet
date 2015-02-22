@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/paypaljsbuttons/1.0.2/paypal-button-minicart.min.js"></script>
+]]></content>	
+	<tabTrigger>paypaljsbuttons </tabTrigger>
+</snippet>
+		  

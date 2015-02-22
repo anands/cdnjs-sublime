@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/device.js/0.1.61/device.min.js"></script>
+]]></content>	
+	<tabTrigger>device.js </tabTrigger>
+</snippet>
+		  

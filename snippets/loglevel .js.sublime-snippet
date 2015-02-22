@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/loglevel/1.2.0/loglevel.min.js"></script>
+]]></content>	
+	<tabTrigger>loglevel </tabTrigger>
+</snippet>
+		  

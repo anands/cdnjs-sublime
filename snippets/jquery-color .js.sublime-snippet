@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-color/2.1.2/jquery.color.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-color </tabTrigger>
+</snippet>
+		  

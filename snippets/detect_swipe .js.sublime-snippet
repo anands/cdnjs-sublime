@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/detect_swipe/2.1.1/jquery.detect_swipe.min.js"></script>
+]]></content>	
+	<tabTrigger>detect_swipe </tabTrigger>
+</snippet>
+		  

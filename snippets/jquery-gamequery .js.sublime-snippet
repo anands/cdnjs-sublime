@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-gamequery/0.7.0/jquery.gamequery.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-gamequery </tabTrigger>
+</snippet>
+		  

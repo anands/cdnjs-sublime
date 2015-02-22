@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bonsai/0.4.5/bonsai.min.js"></script>
+]]></content>	
+	<tabTrigger>bonsai </tabTrigger>
+</snippet>
+		  

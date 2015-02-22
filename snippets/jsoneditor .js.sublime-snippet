@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jsoneditor/3.2.0/jsoneditor.min.js"></script>
+]]></content>	
+	<tabTrigger>jsoneditor </tabTrigger>
+</snippet>
+		  

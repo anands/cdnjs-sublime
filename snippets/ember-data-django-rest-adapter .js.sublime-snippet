@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ember-data-django-rest-adapter/0.13.1/ember-data-django-rest-adapter.min.js"></script>
+]]></content>	
+	<tabTrigger>ember-data-django-rest-adapter </tabTrigger>
+</snippet>
+		  

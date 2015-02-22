@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qunit/1.16.0/qunit.min.js"></script>
+]]></content>	
+	<tabTrigger>qunit </tabTrigger>
+</snippet>
+		  

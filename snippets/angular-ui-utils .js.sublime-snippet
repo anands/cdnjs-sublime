@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-utils/0.1.1/angular-ui-utils.min.js"></script>
+]]></content>	
+	<tabTrigger>angular-ui-utils </tabTrigger>
+</snippet>
+		  

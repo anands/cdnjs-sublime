@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/deb.js/0.0.1/deb.min.js"></script>
+]]></content>	
+	<tabTrigger>deb.js </tabTrigger>
+</snippet>
+		  

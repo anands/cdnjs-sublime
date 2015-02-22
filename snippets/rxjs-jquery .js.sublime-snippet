@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs-jquery/1.1.6/rx.jquery.js"></script>
+]]></content>	
+	<tabTrigger>rxjs-jquery </tabTrigger>
+</snippet>
+		  

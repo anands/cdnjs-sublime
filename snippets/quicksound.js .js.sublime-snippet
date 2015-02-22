@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/quicksound.js/0.5.2/quicksound.min.js"></script>
+]]></content>	
+	<tabTrigger>quicksound.js </tabTrigger>
+</snippet>
+		  

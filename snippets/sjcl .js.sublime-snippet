@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sjcl/1.0.0/sjcl.min.js"></script>
+]]></content>	
+	<tabTrigger>sjcl </tabTrigger>
+</snippet>
+		  

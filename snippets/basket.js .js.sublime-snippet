@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/basket.js/0.5.1/basket.full.min.js"></script>
+]]></content>	
+	<tabTrigger>basket.js </tabTrigger>
+</snippet>
+		  

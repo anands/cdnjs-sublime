@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reactive-coffee/1.2.2/reactive-coffee.min.js"></script>
+]]></content>	
+	<tabTrigger>reactive-coffee </tabTrigger>
+</snippet>
+		  

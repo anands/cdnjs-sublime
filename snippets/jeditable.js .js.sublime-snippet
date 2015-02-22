@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jeditable.js/1.7.3/jeditable.min.js"></script>
+]]></content>	
+	<tabTrigger>jeditable.js </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jq-console/2.7.7/jqconsole.min.js"></script>
+]]></content>	
+	<tabTrigger>jq-console </tabTrigger>
+</snippet>
+		  

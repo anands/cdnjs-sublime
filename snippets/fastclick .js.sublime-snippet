@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.3/fastclick.min.js"></script>
+]]></content>	
+	<tabTrigger>fastclick </tabTrigger>
+</snippet>
+		  

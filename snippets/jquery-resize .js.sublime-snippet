@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-resize/1.1/jquery.ba-resize.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery-resize </tabTrigger>
+</snippet>
+		  

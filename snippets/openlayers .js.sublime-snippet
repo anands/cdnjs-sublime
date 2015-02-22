@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/2.13.1/OpenLayers.js"></script>
+]]></content>	
+	<tabTrigger>openlayers </tabTrigger>
+</snippet>
+		  

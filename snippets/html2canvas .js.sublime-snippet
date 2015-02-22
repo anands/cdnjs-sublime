@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js"></script>
+]]></content>	
+	<tabTrigger>html2canvas </tabTrigger>
+</snippet>
+		  

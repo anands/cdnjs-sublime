@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/watch/2.0.3/jquery.watch.min.js"></script>
+]]></content>	
+	<tabTrigger>watch </tabTrigger>
+</snippet>
+		  

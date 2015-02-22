@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/audio5js/0.1.9/audio5.min.js"></script>
+]]></content>	
+	<tabTrigger>audio5js </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.superlabels/2.0.3/jquery.superLabels.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.superlabels </tabTrigger>
+</snippet>
+		  

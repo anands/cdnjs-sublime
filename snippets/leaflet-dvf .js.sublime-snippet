@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-dvf/0.2/leaflet-dvf.min.js"></script>
+]]></content>	
+	<tabTrigger>leaflet-dvf </tabTrigger>
+</snippet>
+		  

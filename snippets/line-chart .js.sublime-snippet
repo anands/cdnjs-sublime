@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/line-chart/1.1.4/line-chart.min.js"></script>
+]]></content>	
+	<tabTrigger>line-chart </tabTrigger>
+</snippet>
+		  

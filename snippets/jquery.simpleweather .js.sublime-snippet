@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.simpleWeather/3.0.2/jquery.simpleWeather.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.simpleweather </tabTrigger>
+</snippet>
+		  

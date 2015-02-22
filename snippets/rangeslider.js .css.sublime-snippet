@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/0.3.9/rangeslider.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>rangeslider.js </tabTrigger>
+</snippet>
+			

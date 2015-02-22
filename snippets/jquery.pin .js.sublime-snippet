@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pin/1.0.1/jquery.pin.min.js"></script>
+]]></content>	
+	<tabTrigger>jquery.pin </tabTrigger>
+</snippet>
+		  

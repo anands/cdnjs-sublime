@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typescript/1.0.0/typescript.min.js"></script>
+]]></content>	
+	<tabTrigger>typescript </tabTrigger>
+</snippet>
+		  

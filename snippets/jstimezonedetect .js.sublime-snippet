@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+]]></content>	
+	<tabTrigger>jstimezonedetect </tabTrigger>
+</snippet>
+		  

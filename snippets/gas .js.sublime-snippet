@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gas/1.11.0/gas.min.js"></script>
+]]></content>	
+	<tabTrigger>gas </tabTrigger>
+</snippet>
+		  

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jshint/2.6.0/jshint.js"></script>
+]]></content>	
+	<tabTrigger>jshint </tabTrigger>
+</snippet>
+		  

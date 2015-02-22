@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/eve.js/0.8.4/eve.min.js"></script>
+]]></content>	
+	<tabTrigger>eve.js </tabTrigger>
+</snippet>
+		  

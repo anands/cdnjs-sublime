@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tablefilter/2.5.0/tablefilter_min.js"></script>
+]]></content>	
+	<tabTrigger>tablefilter </tabTrigger>
+</snippet>
+		  

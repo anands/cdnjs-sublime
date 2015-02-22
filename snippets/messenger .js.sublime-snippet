@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+<script src="https://cdnjs.cloudflare.com/ajax/libs/messenger/1.4.0/js/messenger.min.js"></script>
+]]></content>	
+	<tabTrigger>messenger </tabTrigger>
+</snippet>
+		  

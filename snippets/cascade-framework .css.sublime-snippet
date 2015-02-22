@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[
+<link href="https://cdnjs.cloudflare.com/ajax/libs/cascade-framework/1.5.0/css/build-full.min.css" rel="stylesheet">
+]]></content>	
+	<tabTrigger>cascade-framework </tabTrigger>
+</snippet>
+			
